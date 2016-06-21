@@ -10,6 +10,7 @@ installation:
 
 running the app:
 
-1)check localhost:3700/127.0.0.1:3700.
+1)nodejs index1.js
+2)check localhost:3700/127.0.0.1:3700.
 
 
